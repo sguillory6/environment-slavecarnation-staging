@@ -10,6 +10,9 @@ dependencies:
 - name: jx-spring-boot-ex
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.4
+- name: jx-spring-boot-gradle-quickstart
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.3
 - name: spring-petclinic-config-server
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.7
