@@ -12,7 +12,7 @@ dependencies:
   version: 0.0.5
 - name: jx-spring-boot-gradle-quickstart
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.5
+  version: 0.0.6
 - name: spring-petclinic-config-server
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.9
